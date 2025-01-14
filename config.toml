@@ -1,0 +1,11 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "My Hugo Website"
+theme = "papermod"
+
+[params]
+  cover = "/images/post-header-image.jpg"  # Ensure this path is relative to the static directory
+
+
+usePostCover = true
+
