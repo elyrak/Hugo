@@ -15,12 +15,5 @@
       <guid>http://localhost:1313/posts/markdown-syntax/</guid>
       <description>Step into a world where anything is possible! The best animated movies combine breathtaking visuals, unforgettable stories, and characters that will steal your heart. Whether you’re looking for laughter, adventure, or inspiration, these films are guaranteed to entertain and leave you in awe. Perfect for all ages, animated movies take storytelling to the next level—so why wait? Dive into the magic and let these masterpieces transport you to another world!</description>
     </item>
-    <item>
-      <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
   </channel>
 </rss>
